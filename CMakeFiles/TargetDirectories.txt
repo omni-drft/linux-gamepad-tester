@@ -1,0 +1,3 @@
+/run/media/omni-drft/6166-3131/dev/c/linux-gamepad-tester/CMakeFiles/LinuxGamepadTester.dir
+/run/media/omni-drft/6166-3131/dev/c/linux-gamepad-tester/CMakeFiles/edit_cache.dir
+/run/media/omni-drft/6166-3131/dev/c/linux-gamepad-tester/CMakeFiles/rebuild_cache.dir

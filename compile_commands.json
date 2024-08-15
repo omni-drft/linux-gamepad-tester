@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/run/media/omni-drft/6166-3131/dev/c/linux-gamepad-tester",
+  "command": "/usr/bin/cc   -std=gnu99 -I/usr/include -o CMakeFiles/LinuxGamepadTester.dir/src/Main.c.o -c /run/media/omni-drft/6166-3131/dev/c/linux-gamepad-tester/src/Main.c",
+  "file": "/run/media/omni-drft/6166-3131/dev/c/linux-gamepad-tester/src/Main.c",
+  "output": "CMakeFiles/LinuxGamepadTester.dir/src/Main.c.o"
+}
+]

@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/LinuxGamepadTester.dir/src/Main.c.o -o LinuxGamepadTester  /usr/lib/libraylib.so -L/usr/lib -lraylib
